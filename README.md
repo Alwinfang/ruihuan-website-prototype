@@ -19,3 +19,5 @@ Open `http://localhost:4173`.
 ## GitHub Pages
 
 Publish the repository root from the `main` branch through GitHub Pages. No build step is required.
+
+Live site: https://alwinfang.github.io/ruihuan-website-prototype/
