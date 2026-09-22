@@ -64,6 +64,7 @@ img {
   display: inline-flex;
   align-items: center;
   gap: 10px;
+  color: #3f82c2;
   font-size: 1.2rem;
   font-weight: 700;
 }
@@ -77,7 +78,7 @@ img {
 }
 
 .wordmark-light {
-  color: var(--mint);
+  color: currentColor;
 }
 
 .site-nav {
@@ -613,6 +614,15 @@ h1 {
 @media (max-width: 760px) {
   .site-header {
     padding: 20px 24px;
+  }
+
+  .wordmark {
+    gap: 8px;
+    font-size: 0.82rem;
+  }
+
+  .wordmark-mark {
+    width: 31px;
   }
 
   .nav-toggle {
