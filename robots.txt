@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alwinfang.github.io/ruihuan-website-prototype/sitemap.xml
